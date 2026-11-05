@@ -1,0 +1,11 @@
+{
+  "appId": "com.housedesign.accounts",
+  "appName": "House Design",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "backgroundColor": "#F6F2E9"
+  }
+}
